@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class EnderecoApiApplication
 
 fun main(args: Array<String>) {
-	runApplication<EnderecoApiApplication>(*args)
+    runApplication<EnderecoApiApplication>(*args)
 }
